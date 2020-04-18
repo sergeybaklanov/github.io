@@ -1,0 +1,54 @@
+.resume_name
+{
+    font-size:25px;
+    text-align:center;
+}
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0 auto; /* center content */
+    max-width: 800px; /* limit width */
+    line-height: 1.5;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+#header
+{
+    margin:0 auto;
+    text-align:center;
+    margin-bottom:32px;
+
+}
+#footer
+{
+    margin-top: 64px;
+    text-align:center;
+}
+#paragraph
+{
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     font-size:25px;
+     margin:0 auto;
+     padding-top:25px;
+     padding-left:25px;
+     text-align:justify;
+     border-bottom:2px solid black;
+}
+p{
+    margin-bottom:12px;
+}
+h1,h2,h3
+{
+    width: 800px;
+}
+h1
+{
+font-size: 36px;
+margin-bottom:0px;
+}
+h2 {
+    font-size: 32px;
+    border-bottom: 2px solid black;
+    margin-bottom: 8px;
+    text-align: justify;
+}
